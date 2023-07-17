@@ -1,5 +1,5 @@
-# Tutorial
-Learn how to use this utility
+# Copy-Paste
+Copy-Paste [https://github.com/M3II0/Spigot-Color-Utils/blob/main/ColorUtils.java] into your project!
 
 # Support
 - Using reflections, so it should support every version above (1.7/1.8)
