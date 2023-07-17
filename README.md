@@ -4,7 +4,7 @@ Learn how to use this utility
 # Support
 - Using reflections, so it should support every version above (1.7/1.8)
 
-NOTE: Spigot, not Bukkit!
+NOTE: If you use Gradient/HEX under 1.16, text won't be colorized!
 
 # Colorizing classic text
 
